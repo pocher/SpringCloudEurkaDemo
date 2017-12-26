@@ -1,0 +1,2 @@
+这个是Eureka注册中心的服务，还有另外两个提供服务的工程，
+分别是hello-service1和hello-service2工程
